@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 836e54da023184ef0b1fff711afbf925, type: 3}
+  m_Name: GameUiWindowsList
+  m_EditorClassIdentifier: 
+  _windows:
+  - windowId: PopUp_Configurable
+    windowPrefab: {fileID: 5835905473405497921, guid: 36bbdbcd422e94e62978d42dabb80da4, type: 3}
+  - windowId: PopUp_GoalsPreview
+    windowPrefab: {fileID: 7173304966663046050, guid: 785e2462a46974cf2b51e7305069a763, type: 3}
+  - windowId: GameScreen
+    windowPrefab: {fileID: 4078200911843122733, guid: 03a748a8cba944b6d99913354e2ea37c, type: 3}
